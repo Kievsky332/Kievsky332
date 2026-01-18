@@ -5,8 +5,12 @@
 Автору очень будет приятно ,если вы нажмете follow.
 
 # Почему?
-Автору очень нужна поддержка ,ведь он начинающий web разработчик. Если вы увидели это в колледже ,то я специально ).
+Автору очень нужна поддержка ,ведь он начинающий web разработчик.
+# Мои языки
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kievsky332&layout=pie&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Автор
 
 © 2025 kievsky332
+
