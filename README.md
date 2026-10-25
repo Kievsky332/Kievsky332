@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <sub>© 2026 kievsky332.<br> Сделано с сильной ❤️ </sub>
+  <sub>© 2026 kievsky332<br> Сделано с  ❤️ </sub>
 </p>
