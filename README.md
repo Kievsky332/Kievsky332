@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/2nKSTDDekOgAAAAC/tenor.gif" alt="Приветствие" width="600">
+  <img src="tenor.gif" alt="Приветствие" width="600">
 </p>
 
 # Привет! Добро пожаловать
