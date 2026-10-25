@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://habrastorage.org/getpro/habr/upload_files/451/6b3/3f1/4516b33f158adc6ebf9312ccd6a4d4a7.gif" alt="Анимация разработки" width="600">
+  <img src="https://c.tenor.com/2nKSTDDekOgAAAAC/tenor.gif" alt="Приветствие" width="600">
 </p>
+
 # Привет! Добро пожаловать
 
 Будет очень приятно, если нажмешь (**Follow**)! 
